@@ -1,0 +1,209 @@
+/* Header
+--------------------------------------------------
+
+MarkLloydFe.
+
+Home
+About
+Skills
+Services
+Portfolio
+Blog
+Contact
+
+/* Home
+--------------------------------------------------
+
+I'm <span class="home__name">Mark Lloyd</span> a versatile<br>
+UI/UX Designer<br>
+& Developer
+
+I bring a unique blend of creative design and technical development 
+skills to the table. With a proven track record of delivering 
+user-centered solutions, I'm ready to contribute my expertise to 
+your projects and help you achieve your digital goals.
+
+Hire Me
+
+Follow Me: Facebook - Twitter - Dribbble 
+
+
+/* About
+--------------------------------------------------
+
+About Me
+I Design and Develop Experiences that
+make people's live simple.
+
+Unlocking the Power of Design and Development: 
+Why You Should Hire Me
+
+I combine design finesse with technical 
+expertise to craft engaging digital interfaces and applications 
+that prioritize user satisfaction and business goals.
+
+Download CV
+
+/* Skills
+--------------------------------------------------
+
+My Skills
+Some of My Working Tools
+
+
+UI/UX Design
+- Figma
+- Adobe XD
+- Illustrator
+- Photoshop
+- Sketch
+- InVision
+
+Web Development
+- HTML
+- CSS
+- JavaScript
+- Node.Js 
+- React 
+- Vue.js
+
+/* Counter
+--------------------------------------------------
+
+5
+Years Experience
+
+45 
+Projects Completed
+
+365
+Cups Of Coffee
+
+100 
+Happy Clients
+
+
+/* Services
+--------------------------------------------------
+
+My Services
+What I Provide To My Clients
+
+I offer a comprehensive suite of services designed to elevate your 
+digital presence. As a UI/UX Designer & Developer, my work revolves 
+around putting the user at the forefront of every project. I craft 
+user-centered design solutions that not only captivate visually but 
+also ensure seamless functionality. My expertise spans both the creative 
+and technical aspects of digital development, simplifying your project by 
+providing a holistic approach.
+
+I believe in the power of collaboration and open communication. When 
+you choose to work with me, you'll experience a partnership focused on 
+understanding your unique vision and objectives. I bring innovative ideas 
+to the table, stay up-to-date with industry trends, and deliver results on 
+time, all while maintaining rigorous quality assurance. Even after project 
+completion, I provide ongoing support to ensure your digital solutions continue 
+to thrive. With me, you can expect a dedicated and experienced professional 
+committed to helping you succeed in the digital realm.
+
+Let's Talk
+
+- Frontend Development
+- UI/UX Design 
+- Graphic Design 
+
+My frontend development services are 
+tailored to bring your website or application to life with captivating 
+user interfaces and seamless user experiences.
+
+My UI/UX design services are dedicated to creating 
+visually engaging and user-friendly digital interfaces that leave a lasting 
+impression.
+
+My graphic design services are geared towards transforming 
+ideas into visually compelling and impactful designs that resonate with your audience.
+
+/* My Portfolio
+--------------------------------------------------
+
+My Portfolio 
+Featured Projects
+
+- Website Design 
+- Mobile App UI/UX Design 
+- App Re-design
+
+Showcases a 
+visually captivating and responsive website layout that combines sleek aesthetics 
+with seamless user interaction.
+
+This provides a glimpse into my 
+Mobile App UI/UX design proficiency.
+
+This highlights a transformative App Re-design 
+project. 
+
+
+/* Testimonials 
+--------------------------------------------------
+
+Christopher Del Mar
+Systems Analyst 
+Mark Lloyd's design and development skills are truly exceptional, 
+making him an invaluable asset to our projects.
+
+Mark Glenn Serinas
+Software Developer
+Mark Lloyd's UI/UX skills and collaboration are invaluable to our projects.
+
+Rick James Baranda
+Cybersecurity Analyst
+Mark Lloyd's commitment to security is a game-changer for our projects.
+
+/* Blog
+--------------------------------------------------
+
+My Blog
+Latest Posts & News
+
+UI/UX Design 
+Crafting Memorable User Experiences: 
+Insights from the World of UI/UX Design
+Explore the art of UI/UX design 
+through expert insights and practical tips. Learn how to 
+create digital experiences that leave a lasting impact on users.
+
+UI/UX Design 
+The Art and Science of Designing 
+User-Centered Interfaces: Explore UI/UX Trends and Tips
+Dive into the world of user-centered 
+design, where artistry meets scientific precision. Stay updated 
+on the latest UI/UX trends and gain valuable tips to enhance your 
+digital interfaces.
+
+Web Development 
+Unlocking the World of Web Development: 
+Insights, Tips, and Trends
+Discover the latest web development insights, 
+tips, and trends in one place.
+
+Read More
+
+
+/* Contact
+--------------------------------------------------
+
+Let's Talk 
+Have a Project Idea? Feel Free to Contact
+
+Call: (+63) 956 947 8817
+Email: markfe594@gmail.com
+Location: Tarlac City, Tarlac, Philippines
+
+/* Footer
+--------------------------------------------------
+
+Mark Lloyd Fe
+Home - About - Skills - Services - Portfolio - Blog - Contact
+
+Copyright 2023. All Rights Reserved
